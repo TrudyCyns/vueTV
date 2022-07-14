@@ -1,0 +1,28 @@
+.container {
+  background-color: #323031;
+  width: 700px;
+  height: 500px;
+  margin-top: 50px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+}
+.inner {
+  background-color: black;
+  width: 680px;
+  height: 500px;
+  border-radius: 5px;
+}
+video {
+    height: 430px;
+    width: 680px;
+}
+img {
+    height: 40px;
+    margin: 5px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
